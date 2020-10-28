@@ -2,7 +2,6 @@ def print_log(function):
     def inner_function(*args, **kwargs):
         print(f"Running function '{function.__name__}' with args {args}")
         output = function(*args, **kwargs)
-        print('Unreachable')
         return output
     return inner_function
 
