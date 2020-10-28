@@ -7,3 +7,7 @@
 
 *  Video URL on YouTube: https://youtu.be/eUcfuDF_15o
 *  The video is recorded in **Persian** Language
+
+
+# Related videos
+- [How to use decorators](https://youtu.be/43kqJtN9O1s) | [Code](https://github.com/DarkSuniuM/Python-Decorators/tree/How-To-Use-Decorators)
